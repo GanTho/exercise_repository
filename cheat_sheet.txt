@@ -1,0 +1,8 @@
+git add 
+adds files
+git status
+gives the status of the files in the repository
+git commit -m "commit message"
+used to commit files -m is used to write the commit message directly in the command line
+git push 
+transfering the local repository to the remote one on github.com
